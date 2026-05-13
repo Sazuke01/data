@@ -1,5 +1,15 @@
 [
   {
+    "title": "Ilustración propia",
+    "image": "https://raw.githubusercontent.com/Sazuke01/data/refs/heads/main/public/images/creaciones/a1.svg",
+    "alt": "svg 1"
+  },
+  {
+    "title": "Ilustración propia Flor",
+    "image": "https://raw.githubusercontent.com/Sazuke01/data/refs/heads/main/public/images/creaciones/flor.svg",
+    "alt": "svg 2"
+  },
+  {
     "title": "Ilustración digital inspirada en la naturaleza",
     "image": "https://raw.githubusercontent.com/Sazuke01/data/refs/heads/main/public/images/arte/arte1.jpg",
     "alt": "Arte 1"
